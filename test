@@ -1,0 +1,8 @@
+I should be able to enter values like that in an in put text : (2 + 6 + 4)/5
+your tool need to parse the string provided to extract the calculs to do and display the result
+the operations can be : "+" "-" "/" "*"
+you need to take care of the ( ) that will set the priority of the calculs
+
+I will evaluate your ability to create libraries (object oriented if needed),
+the structure of your code and what you can do in 2 or 3hours.
+Please send me back your script (with comments) and the time you took to do it.
